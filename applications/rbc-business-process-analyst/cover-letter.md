@@ -2,14 +2,14 @@
 
 Dear Hiring Team,
 
-RBC's Office of the CFO is modernizing how Global Product Control runs, and that work — optimizing processes, tracking a project pipeline, and proving value in hard numbers — is exactly the work I did at Nigerian Bottling Company. This role reads like a description of the projects I most enjoy.
+Your posting describes a Business Process Analyst who leverages generative-AI toolsets to accelerate analysis and delivery. That is already how I work. As a Business Analyst on a George Brown industry engagement, I use Claude and Cursor for prompt-driven document analysis and requirements drafting, paired with BPMN mapping, SQL, and Power BI to move a process from current-state to live solution. The Gen AI capability your team lists as a nice-to-have is the core of how I deliver.
 
-At NBC I raised a plant's Manufacturing Excellence (MANEX) audit score from 62% to 83%. I did it the way your posting describes future-state work should happen: I mapped how teams actually operated, built performance routines, and held cross-functional groups accountable through daily SBT meetings and departmental audits. I reported results monthly through the Business Performance Management System, aligning each metric to corporate KPIs so leadership could see progress at a glance — the same instinct behind the dashboards and value-realization tracking this role calls for.
+The rest of the role maps closely to my BA toolkit. I redesigned manual operational workflows into a configured two-application platform, authored the engagement's business analysis report (scope, stakeholder analysis, as-is/to-be, data model), and built it out as working forms, workflows, and role-based permissions. I document processes in BABOK v3 terms and report progress in Power BI, JIRA, and Confluence — the exact tools named in your posting. Where you ask for quantified value, I can point to a verifiable record: I topped my store's productivity scorecard at 184% of goal by tracking work against operational KPIs.
 
-Your posting also asks for someone who can carry change across technical and business teams. As Head of Corporate Communications across four stations, that is my daily job: gathering requirements, getting buy-in, and turning decisions into clear communication people act on. I work fluently in Excel, SAP, and PowerPoint, and I pick up specialized systems quickly — I learned Aquira and Zetta on the job, and I'm ready to do the same with PowerBI, JIRA, and Confluence.
+I want to be straight about the finance domain. Global Product Control is accounting-heavy, and I'm not arriving as a general-ledger expert. What I bring is a process-and-AI analyst who learns a domain quickly — my time at Canadian Tire Financial Services gave me hands-on exposure to compliance-validated financial processes — and a habit of turning unfamiliar operations into documented, measurable workstreams.
 
-I'm drawn to RBC because the transformation mandate here is measured, not aspirational. I'd like to bring my process and reporting experience to your team and help quantify the value these initiatives create.
+I'm Toronto-based and eligible to work in Canada, ECBA-certified, and completing a PG Certificate in Information Systems & Business Analysis at George Brown (Dean's List). I'd welcome the chance to bring process design and applied AI to RBC's transformation work.
 
 Best regards,
-Ayodele Adeleye
-tomyadele04@gmail.com
+David Ezieshi
+ezieshie@gmail.com
