@@ -1,6 +1,6 @@
 # DAVID EZIESHI
 
-(437) 983-0486 | ezieshie@gmail.com | LinkedIn | Portfolio | GitHub | Toronto, ON
+(437) 983-0486 | ezieshie@gmail.com | [LinkedIn](https://www.linkedin.com/in/david-ezieshi/) | [Portfolio](https://davidezieshie.vercel.app) | [GitHub](https://github.com/ezieshie-stack) | Toronto, ON
 
 ## PROFESSIONAL SUMMARY
 
